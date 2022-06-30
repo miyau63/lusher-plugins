@@ -514,7 +514,7 @@ class qbehaviour_lusherr_type extends question_behaviour_type {
 
       // echo "<h1> Проверка на ФункцГр </h1> Функциональная группа + : "; print_r($estMatPlus); echo "</p> Проверка на ф-ции - :"; print_r($estMatMin); echo "</p> Проверка на ф-ции x :"; print_r($estMatx); echo "</p> Проверка на ф-ции =  :"; print_r($estMatEq);echo "</p> Проверка на ф-ции +-  :"; print_r($estMatPlusMin);
 
-       include_once('LusherEstimArr.php');
+       //include_once('LusherEstimArr.php');
 
 
 
