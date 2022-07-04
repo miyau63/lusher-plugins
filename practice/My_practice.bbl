@@ -1,0 +1,127 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{about-moodle}{online}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{About Moodle}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.moodle.org/400/en/About_Moodle
+      \endverb
+      \verb{url}
+      \verb https://docs.moodle.org/400/en/About_Moodle
+      \endverb
+    \endentry
+    \entry{question-type-template}{online}{}
+      \field{sortinit}{m}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{moodle-qtype-template}
+      \field{urlday}{15}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/marcusgreen/moodle-qtype_TEMPLATE/
+      \endverb
+      \verb{url}
+      \verb https://github.com/marcusgreen/moodle-qtype_TEMPLATE/
+      \endverb
+    \endentry
+    \entry{psy-test-ddlusher}{online}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Plugin-ddlusher}
+      \field{urlday}{14}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/R-D4S/Plugins-for-Psychological-tests/tree/main/ddlusher
+      \endverb
+      \verb{url}
+      \verb https://github.com/R-D4S/Plugins-for-Psychological-tests/tree/main/ddlusher
+      \endverb
+    \endentry
+    \entry{psy-test-lusherr}{online}{}
+      \field{sortinit}{p}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{plugin-lusherr}
+      \field{urlday}{14}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/R-D4S/Plugins-for-Psychological-tests/tree/main/lusherr
+      \endverb
+      \verb{url}
+      \verb https://github.com/R-D4S/Plugins-for-Psychological-tests/tree/main/lusherr
+      \endverb
+    \endentry
+    \entry{question-behavior}{online}{}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Question behaviours}
+      \field{urlday}{17}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.moodle.org/dev/Question_behaviours
+      \endverb
+      \verb{url}
+      \verb https://docs.moodle.org/dev/Question_behaviours
+      \endverb
+    \endentry
+    \entry{about-yui}{online}{}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{YUI}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.moodle.org/dev/YUI
+      \endverb
+      \verb{url}
+      \verb https://docs.moodle.org/dev/YUI
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

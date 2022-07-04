@@ -1,0 +1,40 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'My_practice.blg'
+[354] biber-MSWIN64:340> INFO - === 
+[510] Biber.pm:418> INFO - Reading 'My_practice.bcf'
+[844] Biber.pm:978> INFO - Found 6 citekeys in bib section 0
+[879] Biber.pm:4401> INFO - Processing section 0
+[900] Biber.pm:4592> INFO - Looking for bibtex file 'my_folder/my_biblio.bib' for section 0
+[1060] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1128] bibtex.pm:1518> INFO - Found BibTeX data source 'my_folder/my_biblio.bib'
+[1229] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1229] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1229] Biber.pm:4221> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'ru-RU'
+[1230] Biber.pm:4227> INFO - No sort tailoring available for locale 'ru-RU'
+[1247] bbl.pm:654> INFO - Writing 'My_practice.bbl' with encoding 'UTF-8'
+[1250] bbl.pm:757> INFO - Output to My_practice.bbl
+[1251] Biber.pm:130> WARN - Field 'volume' in sorting template is not a sortable field
+[1251] Biber.pm:130> WARN - Field 'book' in sorting template is not a sortable field
+[1251] Biber.pm:130> WARN - Field 'part' in sorting template is not a sortable field
+[1252] Biber.pm:130> WARN - Field 'issue' in sorting template is not a sortable field
+[1252] Biber.pm:130> WARN - Field 'volume' in sorting template is not a sortable field
+[1252] Biber.pm:130> WARN - Field 'book' in sorting template is not a sortable field
+[1252] Biber.pm:130> WARN - Field 'part' in sorting template is not a sortable field
+[1252] Biber.pm:130> WARN - Field 'issue' in sorting template is not a sortable field
+[1252] Biber.pm:130> WARN - Field 'volume' in sorting template is not a sortable field
+[1252] Biber.pm:130> WARN - Field 'book' in sorting template is not a sortable field
+[1252] Biber.pm:130> WARN - Field 'part' in sorting template is not a sortable field
+[1252] Biber.pm:130> WARN - Field 'issue' in sorting template is not a sortable field
+[1252] Biber.pm:130> WARN - Field 'volume' in sorting template is not a sortable field
+[1252] Biber.pm:130> WARN - Field 'book' in sorting template is not a sortable field
+[1253] Biber.pm:130> WARN - Field 'part' in sorting template is not a sortable field
+[1253] Biber.pm:130> WARN - Field 'issue' in sorting template is not a sortable field
+[1253] Biber.pm:130> WARN - Field 'volume' in sorting template is not a sortable field
+[1253] Biber.pm:130> WARN - Field 'book' in sorting template is not a sortable field
+[1253] Biber.pm:130> WARN - Field 'part' in sorting template is not a sortable field
+[1253] Biber.pm:130> WARN - Field 'issue' in sorting template is not a sortable field
+[1253] Biber.pm:130> WARN - Field 'volume' in sorting template is not a sortable field
+[1253] Biber.pm:130> WARN - Field 'book' in sorting template is not a sortable field
+[1253] Biber.pm:130> WARN - Field 'part' in sorting template is not a sortable field
+[1253] Biber.pm:130> WARN - Field 'issue' in sorting template is not a sortable field
+[1254] Biber.pm:132> INFO - WARNINGS: 24
